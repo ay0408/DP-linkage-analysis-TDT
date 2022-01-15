@@ -8,6 +8,14 @@ The distribution of the statistics on our datasets can be found in the datasets 
 
 Supplements.pdf contains detailed proofs and detailed description of our datasets.
 
-### Note
+## Note
 For details of our releasing methods and experimental results, please see our paper entitled "Differentially Private Linkage Analysis with TDT --- the case of two affected children per family".
 
+### Contact
+Akito Yamamoto
+
+Division of Medical Data Informatics, Human Genome Center,
+
+the Institute of Medical Science, the University of Tokyo
+
+a-ymmt@ims.u-tokyo.ac.jp

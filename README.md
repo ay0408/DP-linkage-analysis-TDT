@@ -11,6 +11,10 @@ Supplements.pdf contains detailed proofs and detailed description of our dataset
 ## Note
 For details of our releasing methods and experimental results, please see our paper entitled "Differentially Private Linkage Analysis with TDT --- the case of two affected children per family" (https://doi.org/10.1109/bibm52615.2021.9669365) presented at IEEE BIBM 2021.
 
+Errata:
+
+p.766. Definition 4. " $T_i$ and $T_i'$ are the test statistics obtained from" → " $T_i$ and $T_i'$ are the test statistics associated with"
+
 ### Contact
 Akito Yamamoto
 

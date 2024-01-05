@@ -13,7 +13,7 @@ For details of our releasing methods and experimental results, please see our pa
 
 Errata:
 
-p.766. Definition 4. " $T_i$ and $T_i'$ are the test statistics obtained from" → " $T_i$ and $T_i'$ are the test statistics associated with"
+・p.766. Definition 4. " $T_i$ and $T_i'$ are the test statistics obtained from" → " $T_i$ and $T_i'$ are the test statistics associated with"
 
 ### Contact
 Akito Yamamoto
